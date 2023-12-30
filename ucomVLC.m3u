@@ -1,0 +1,233 @@
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz" aspect-ratio="16:9"
+
+#EXTINF:-1,Առաջին Ալիք
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s1/index.m3u8
+
+#EXTINF:-1,Հ2
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s2/index.m3u8
+
+#EXTINF:-1,ԱզատությունTV
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s3/index.m3u8
+
+#EXTINF:-1,Արմենիա Tv
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s4/index.m3u8
+
+#EXTINF:-1,Կենտրոն
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s5/index.m3u8
+
+#EXTINF:-1,Հինգերորդ ալիք
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s6/index.m3u8
+
+#EXTINF:-1,Երկիր մեդիա
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s7/index.m3u8
+
+#EXTINF:-1,ATV
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s8/index.m3u8
+
+#EXTINF:-1,Դար 21
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s10/index.m3u8
+
+#EXTINF:-1,Արմնյուզ
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s11/index.m3u8
+
+#EXTINF:-1,նոր ՀԱՅԱՍՏԱՆ
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s12/index.m3u8
+
+#EXTINF:-1,Շողակաթ
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s13/index.m3u8
+
+#EXTINF:-1,հայ կինո
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s22/index.m3u8
+
+#EXTINF:-1,քոմեդի
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s32/index.m3u8
+
+#EXTINF:-1,ջան tv
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s42/index.m3u8
+
+#EXTINF:-1,սինեման
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s66/index.m3u8
+
+#EXTINF:-1,լայֆհաք
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s48/index.m3u8
+
+#EXTINF:-1,ԿԻՆՈՄԱՆ
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s94/index.m3u8
+
+#EXTINF:-1,Armenia Premium
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s83/index.m3u8
+
+#EXTINF:-1,տունտունիկ
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s46/index.m3u8
+
+#EXTINF:-1,ԽԱՂԱԼԻՔ
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s74/index.m3u8
+
+#EXTINF:-1,ՀԱՅ TV
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s73/index.m3u8
+
+#EXTINF:-1,ԹԱՎԱ TV
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s53/index.m3u8
+
+#EXTINF:-1,Первый канал
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s14/index.m3u8
+
+#EXTINF:-1,РТР-Планета
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s15/index.m3u8
+
+#EXTINF:-1,Россия-Культура
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s16/index.m3u8
+
+#EXTINF:-1,НТВ Мир
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s17/index.m3u8
+
+#EXTINF:-1,ТНТ
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s19/index.m3u8
+
+#EXTINF:-1,СТС
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s52/index.m3u8
+
+#EXTINF:-1,РЕН ТВ
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s85/index.m3u8
+
+#EXTINF:-1,Пятница!
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s50/index.m3u8
+
+#EXTINF:-1,Amedia 1
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s45/index.m3u8
+
+#EXTINF:-1,Amedia 2
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s33/index.m3u8
+
+#EXTINF:-1,РБК-ТВ
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s36/index.m3u8
+
+#EXTINF:-1,История
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s40/index.m3u8
+
+#EXTINF:-1,Футбол
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s41/index.m3u8
+
+#EXTINF:-1,Шансон ТВ
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s43/index.m3u8
+
+#EXTINF:-1,Первый космический
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s44/index.m3u8
+
+#EXTINF:-1,Телепутешествия
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s71/index.m3u8
+
+#EXTINF:-1,ТВЦ
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s54/index.m3u8
+
+#EXTINF:-1,НТВ Стиль
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s77/index.m3u8
+
+#EXTINF:-1,Мир
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s39/index.m3u8
+
+#EXTINF:-1,Киноужас
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s87/index.m3u8
+
+#EXTINF:-1,Наука
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s98/index.m3u8
+
+#EXTINF:-1,Россия-24
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s21/index.m3u8
+
+#EXTINF:-1,Победа
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s47/index.m3u8
+
+#EXTINF:-1,Рыжий
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s57/index.m3u8
+
+#EXTINF:-1,СТС Love
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s38/index.m3u8
+
+#EXTINF:-1,Арсенал
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s68/index.m3u8
+
+#EXTINF:-1,Приключения HD
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s99/index.m3u8
+
+#EXTINF:-1,Հինգերորդ ալիք+
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s9/index.m3u8
+
+#EXTINF:-1,Детский Мир
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s58/index.m3u8
+
+#EXTINF:-1,TiJi
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s59/index.m3u8
+
+#EXTINF:-1,Охотник И Рыболов
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s62/index.m3u8
+
+#EXTINF:-1,Premium
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s64/index.m3u8
+
+#EXTINF:-1,Домашний
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s88/index.m3u8
+
+#EXTINF:-1,Дорама
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s95/index.m3u8
+
+#EXTINF:-1,ТНТ4
+#EXTVLCOPT:http-user-agent=rostelecom
+http://ott-cdn.ucom.am/s100/index.m3u8
