@@ -1,0 +1,110 @@
+﻿#EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz"
+
+#EXTINF:-1 group-title="UCOM" tvg-id="2060" tvg-logo="http://epg.it999.ru/img/2060.png" tvg-rec="3",Arachin Aliq
+http://ott-cdn.ucom.am/s1/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2062" tvg-logo="http://epg.it999.ru/img/2062.png" tvg-rec="3",H2
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2385" tvg-logo="http://epg.it999.ru/img/2385.png" tvg-rec="3",AzatutyunTV
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2064" tvg-logo="http://epg.it999.ru/img/2064.png" tvg-rec="3",ArmeniaTV
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2065" tvg-logo="http://epg.it999.ru/img/2065.png" tvg-rec="3",Kentron
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2372" tvg-logo="http://epg.it999.ru/img/2372.png" tvg-rec="3",Hingerord aliq
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2066" tvg-logo="http://epg.it999.ru/img/2066.png" tvg-rec="3",Erkir media
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2067" tvg-logo="http://epg.it999.ru/img/2067.png" tvg-rec="3",ATV
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2061" tvg-logo="http://epg.it999.ru/img/2061.png" tvg-rec="3",Dar 21
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2069" tvg-logo="http://epg.it999.ru/img/2069.png" tvg-rec="3",Armnews
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2395" tvg-logo="http://epg.it999.ru/img/2395.png" tvg-rec="3",nor HAYASTAN
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2071" tvg-logo="http://epg.it999.ru/img/2071.png" tvg-rec="3",Shoghakat
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2397" tvg-logo="http://epg.it999.ru/img/2397.png" tvg-rec="3",hay kino
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2388" tvg-logo="http://epg.it999.ru/img/2388.png" tvg-rec="3",komedy ATV
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2396" tvg-logo="http://epg.it999.ru/img/2396.png" tvg-rec="3",jan TV
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2394" tvg-logo="http://epg.it999.ru/img/2394.png" tvg-rec="3",Cineman
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2386" tvg-logo="http://epg.it999.ru/img/2386.png" tvg-rec="3",Filmzone
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2393" tvg-logo="http://epg.it999.ru/img/2393.png" tvg-rec="3",Kinoman
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2384" tvg-logo="http://epg.it999.ru/img/2384.png" tvg-rec="3",Armenia Premium
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2390" tvg-logo="http://epg.it999.ru/img/2390.png" tvg-rec="3",Tuntunik
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2387" tvg-logo="http://epg.it999.ru/img/2387.png" tvg-rec="3",Khaghaliq
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2391" tvg-logo="http://epg.it999.ru/img/2391.png" tvg-rec="3",HAY TV
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2392" tvg-logo="http://epg.it999.ru/img/2392.png" tvg-rec="3",TAVA TV
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="146" tvg-logo="http://epg.it999.ru/img/146.png" tvg-rec="7",Первый канал
+http://ott-cdn.ucom.am/s14/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="1683" tvg-logo="http://epg.it999.ru/img/1683.png" tvg-rec="7",Россия-24
+http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="187" tvg-logo="http://epg.it999.ru/img/187.png" tvg-rec="7",Россия-Культура
+http://ott-cdn.ucom.am/s16/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="162" tvg-logo="http://epg.it999.ru/img/162.png" tvg-rec="7",НТВ Мир
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="353" tvg-logo="http://epg.it999.ru/img/353.png" tvg-rec="7",ТНТ
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="79" tvg-logo="http://epg.it999.ru/img/79.png" tvg-rec="7",СТС
+http://ott-cdn.ucom.am/s52/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="18" tvg-logo="http://epg.it999.ru/img/18.png" tvg-rec="7",РЕН ТВ
+http://ott-cdn.ucom.am/s85/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="1003" tvg-logo="http://epg.it999.ru/img/1003.png" tvg-rec="7",Пятница!
+http://ott-cdn.ucom.am/s50/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="1371" tvg-logo="http://epg.it999.ru/img/1371.png" tvg-rec="7",Amedia 1
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2492" tvg-logo="http://epg.it999.ru/img/2492.png" tvg-rec="7",Amedia 2
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="743" tvg-logo="http://epg.it999.ru/img/743.png" tvg-rec="7",РБК-ТВ
+http://ott-cdn.ucom.am/s36/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="1036" tvg-logo="http://epg.it999.ru/img/1036.png" tvg-rec="7",История
+http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2782" tvg-logo="http://epg.it999.ru/img/2782.png" tvg-rec="3",Футбол
+http://ott-cdn.ucom.am/s41/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2278" tvg-logo="http://epg.it999.ru/img/2278.png" tvg-rec="7",Шансон ТВ
+http://ott-cdn.ucom.am/s43/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2310" tvg-logo="http://epg.it999.ru/img/2310.png" tvg-rec="7",Первый космический
+http://ott-cdn.ucom.am/s44/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2424" tvg-logo="http://epg.it999.ru/img/2424.png" tvg-rec="3",Телепутешествия
+http://ott-cdn.ucom.am/s71/index.m3u8
+#EXTINF:-1  group-title="UCOM" tvg-id="" tvg-logo="http://epg.it999.ru/img/649.png" tvg-rec="7",ТВЦ
+http://ott-cdn.ucom.am/s54/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="1755" tvg-logo="http://epg.it999.ru/img/1755.png" tvg-rec="7",НТВ Стиль
+http://ott-cdn.ucom.am/s77/index.m3u8
+#EXTINF:-1  group-title="UCOM" tvg-id="" tvg-logo="http://epg.it999.ru/img/726.png" tvg-rec="7",Мир
+http://ott-cdn.ucom.am/s39/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2493" tvg-logo="http://epg.it999.ru/img/2493.png" tvg-rec="3",Киноужас
+http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="723" tvg-logo="http://epg.it999.ru/img/723.png" tvg-rec="3",Наука
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="1683" tvg-logo="http://epg.it999.ru/img/1683.png" tvg-rec="7",Россия-24
+http://ott-cdn.ucom.am/s21/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2447" tvg-logo="http://epg.it999.ru/img/2447.png" tvg-rec="7",Победа
+http://ott-cdn.ucom.am/s47/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2437" tvg-logo="http://epg.it999.ru/img/2437.png" tvg-rec="3",Рыжий
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="1322" tvg-logo="http://epg.it999.ru/img/1322.png" tvg-rec="7",СТС Love
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2768" tvg-logo="http://epg.it999.ru/img/2768.png" tvg-rec="3",Арсенал
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2311" tvg-logo="http://epg.it999.ru/img/2311.png" tvg-rec="7",Приключения HD
+http://ott-cdn.ucom.am/s99/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="2425" tvg-logo="http://epg.it999.ru/img/2425.png" tvg-rec="3",Тонус
+http://ott-cdn.ucom.am/s90/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="" tvg-logo="http://epg.it999.ru/img/1.png" tvg-rec="3",A HBO
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:-1 group-title="UCOM" tvg-id="3792" tvg-logo="http://epg.it999.ru/img/3792.png" tvg-rec="3",FightBox
+http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:-1 group-title="Ucom" tvg-id="2400" tvg-logo="http://epg.it999.ru/img/2400.png" tvg-rec="3" ,Центральное телевидение
+http://ott-cdn.ucom.am/s20/index.m3u8
